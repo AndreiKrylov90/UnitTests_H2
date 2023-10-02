@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Program Files\\Java\\jdk-20\\lib\\assertj-core-3.23.1.jar",
+        "c:\\Program Files\\Java\\jdk-20\\lib\\junit-4.13.2.jar",
+        "c:\\Program Files\\Java\\jdk-20\\lib\\junit-jupiter-api-5.9.1.jar",
+        "c:\\Program Files\\Java\\jdk-20\\lib\\junit-platform-commons-1.9.1.jar"
+    ]
+}
